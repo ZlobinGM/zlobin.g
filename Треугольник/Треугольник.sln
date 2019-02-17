@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Треугольник", "Треугольник\Треугольник.vcxproj", "{0D510478-2BA7-446F-858B-86F06FCD556D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D510478-2BA7-446F-858B-86F06FCD556D}.Debug|x64.ActiveCfg = Debug|x64
+		{0D510478-2BA7-446F-858B-86F06FCD556D}.Debug|x64.Build.0 = Debug|x64
+		{0D510478-2BA7-446F-858B-86F06FCD556D}.Debug|x86.ActiveCfg = Debug|Win32
+		{0D510478-2BA7-446F-858B-86F06FCD556D}.Debug|x86.Build.0 = Debug|Win32
+		{0D510478-2BA7-446F-858B-86F06FCD556D}.Release|x64.ActiveCfg = Release|x64
+		{0D510478-2BA7-446F-858B-86F06FCD556D}.Release|x64.Build.0 = Release|x64
+		{0D510478-2BA7-446F-858B-86F06FCD556D}.Release|x86.ActiveCfg = Release|Win32
+		{0D510478-2BA7-446F-858B-86F06FCD556D}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7E44C1D6-87EB-44F4-9FEB-531EF4429F8D}
+	EndGlobalSection
+EndGlobal
